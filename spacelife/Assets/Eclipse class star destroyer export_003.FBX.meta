@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: b6cd8a2e29dcbf844a997eb44ff725e9
+timeCreated: 1519333519
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base001
+    100002: Base002
+    100004: Base003
+    100006: Base004
+    100008: Base005
+    100010: Bottom001
+    100012: Bridge
+    100014: BridgeHolder
+    100016: //RootNode
+    100018: Engine001
+    100020: Engine002
+    100022: Engine003
+    100024: Engine004
+    100026: Engine005
+    100028: HangarDoor
+    100030: Middle001
+    400000: Base001
+    400002: Base002
+    400004: Base003
+    400006: Base004
+    400008: Base005
+    400010: Bottom001
+    400012: Bridge
+    400014: BridgeHolder
+    400016: //RootNode
+    400018: Engine001
+    400020: Engine002
+    400022: Engine003
+    400024: Engine004
+    400026: Engine005
+    400028: HangarDoor
+    400030: Middle001
+    2300000: Base001
+    2300002: Base002
+    2300004: Base003
+    2300006: Base004
+    2300008: Base005
+    2300010: Bottom001
+    2300012: Bridge
+    2300014: BridgeHolder
+    2300016: Engine001
+    2300018: Engine002
+    2300020: Engine003
+    2300022: Engine004
+    2300024: Engine005
+    2300026: HangarDoor
+    2300028: Middle001
+    3300000: Base001
+    3300002: Base002
+    3300004: Base003
+    3300006: Base004
+    3300008: Base005
+    3300010: Bottom001
+    3300012: Bridge
+    3300014: BridgeHolder
+    3300016: Engine001
+    3300018: Engine002
+    3300020: Engine003
+    3300022: Engine004
+    3300024: Engine005
+    3300026: HangarDoor
+    3300028: Middle001
+    4300000: Base001
+    4300002: Base002
+    4300004: Base003
+    4300006: Base004
+    4300008: Base005
+    4300010: Bottom001
+    4300012: Middle001
+    4300014: BridgeHolder
+    4300016: Bridge
+    4300018: Engine001
+    4300020: HangarDoor
+    4300022: Engine002
+    4300024: Engine003
+    4300026: Engine004
+    4300028: Engine005
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
